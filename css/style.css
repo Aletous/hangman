@@ -1,0 +1,18 @@
+canvas{
+    float: left;
+}
+.container{
+    height: 600px;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.one {
+    font-size: 30px;
+}
+body{
+    min-height: 100vh;
+    background: url(img/ship.jpg) 0 0/ cover no-repeat;
+}
